@@ -8,15 +8,11 @@
 * `reroll-giveaway` command
 * `end-giveaway` command
 
-<img src='./examples/start-cmd.png' style="width: 50%;"></img>
 <img src='./examples/giveaway.png' style="width: 50%;"></img>
 
 ## Install
 
-* Clone repository:
-```sh
-git clone https://github.com/Androz2091/giveaways-bot
-```
+
 
 * Fill configuration (config.json):
 ```json
