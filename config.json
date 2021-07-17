@@ -1,6 +1,6 @@
 {
     "token": "Your Discord Bot token",
     "prefix": "g!",
-    "everyoneMention": true,
+    "everyoneMention": true, // If u don't want to ping,change true with false!
     "hostedBy": true
 }
